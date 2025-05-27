@@ -1,0 +1,14 @@
+.container {
+  margin: 20px auto;
+  padding: 12px 24px;
+}
+
+.container input {
+  padding: 24px;
+  font-size: bold;
+  font-size: 12;
+}
+
+.container input:hover {
+  background-color: aquamarine;
+}
